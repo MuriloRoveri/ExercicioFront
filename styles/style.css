@@ -11,9 +11,11 @@ body {
     padding: 0;
 }
 .h1{
+    font-size: 30px;
     color:rgb(253, 30, 104)
 }
 .p{
+    font-size: 16px;
     margin: 5% 5%
 }
 .h2 {
@@ -97,6 +99,10 @@ body {
 }
 .fav {
     position: absolute;
-    right: 785px;
+    right: 760px;
+    top: 550px;
     color:rgb(90, 230, 183)
+}
+.sites {
+    color:#ed145b;
 }
