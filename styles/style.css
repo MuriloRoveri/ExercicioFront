@@ -13,6 +13,12 @@ body {
 .h1{
     color:rgb(253, 30, 104)
 }
+.p{
+    margin: 5% 5%
+}
+.h2 {
+    margin: 5% 5%
+}
 .principal {
     background-repeat: no-repeat;
     background-size: contain;
@@ -39,7 +45,7 @@ body {
 }
 
 .imagem__logo{
-    width: 15%;
+    width: 20%;
     height: 20%;
     margin: 1em 0 2em 0
 }
@@ -51,7 +57,7 @@ body {
 }
 
 .rodape{
-    margin:5% 5%
+    margin:2% 2%
 }
 .rodape__lista {
     list-style-type: none;
