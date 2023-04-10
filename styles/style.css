@@ -10,7 +10,9 @@ body {
     margin: 0;
     padding: 0;
 }
-
+.h1{
+    color:rgb(253, 30, 104)
+}
 .principal {
     background-repeat: no-repeat;
     background-size: contain;
