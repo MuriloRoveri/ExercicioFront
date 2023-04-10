@@ -102,13 +102,110 @@ body {
     top: 550px;
     color:rgb(90, 230, 183)
 }
-.sites {
-    color:#ed145b;
-}
 .fiapinho {
     position: absolute;
     top: 570px;
     right: 620px;
     width: 690px;
     height: 350px;
+}
+.sitefav {
+    position: absolute;
+    top: 215px;
+    right: 1685px;
+}
+.twitch {
+    position: absolute;
+    top: 250px;
+    right: 1650px;
+}
+.youtube {
+    position: absolute;
+    top: 215px;
+    right: 1505px;
+}
+.logoyt {
+    position: absolute;
+    top: 250px;
+    right: 1465px;
+}
+.netflix {
+    position: absolute;
+    top: 215px;
+    right: 1325px;
+}
+.logonetflix {
+    position: absolute;
+    top: 250px;
+    right: 1280px;
+}
+.valorant {
+    position: absolute;
+    top: 215px;
+    right: 1140px;
+}
+.logovava {
+    position: absolute;
+    top: 250px;
+    right: 1100px;
+}
+.crunchyroll {
+    position: absolute;
+    top: 215px;
+    right: 945px;
+}
+.logocrunchyroll {
+    position: absolute;
+    top: 250px;
+    right: 920px;
+}
+.kabum {
+    position: absolute;
+    top: 215px;
+    right: 795px;
+}
+.logokabum {
+    position: absolute;
+    top: 250px;
+    right: 750px;
+}
+.amazon {
+    position: absolute;
+    top: 215px;
+    right: 620px;
+}
+.logoamazon {
+    position: absolute;
+    top: 250px;
+    right: 580px;
+}
+.hbo {
+    position: absolute;
+    top: 215px;
+    right: 440px;
+}
+.logohbo {
+    position: absolute;
+    top: 250px;
+    right: 410px;
+}
+.disney {
+    position: absolute;
+    top: 215px;
+    right: 280px;
+}
+.logodisney {
+    position: absolute;
+    top: 250px;
+    right: 240px;
+}
+.star {
+    position: absolute;
+    top: 215px;
+    right: 125px;
+}
+.logostar {
+    position: absolute;
+    top: 250px;
+    right: 75px;
 }
