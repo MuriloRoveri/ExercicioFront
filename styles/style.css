@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(5, 0, 17);
     color:#ffffff;
     font-size: 16px;
     font-weight: 400;
@@ -89,4 +89,14 @@ body {
     text-decoration: none;
     color: #f6f6f6;
     margin-left: 1em;
+}
+.favorito {
+    position:absolute;
+    right: 700px;
+    top: 550px;
+}
+.fav {
+    position: absolute;
+    right: 785px;
+    color:rgb(90, 230, 183)
 }
