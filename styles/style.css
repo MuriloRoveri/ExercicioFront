@@ -216,3 +216,7 @@ body {
     right: 900px;
     font-size: 20px;
 }
+.linkcurso {
+    text-decoration: none;
+    color:blue  
+}
